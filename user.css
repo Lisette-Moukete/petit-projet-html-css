@@ -1,0 +1,67 @@
+#image{
+    border-radius: 50%;
+   margin-top:-40px ;
+
+}
+.bloc1{
+    margin-left: 40%;
+}
+.bloc2{
+    text-align: center;
+}
+#put-color{
+    color:rgb(45, 74, 182);
+    font-weight: bold;
+}
+#big-size{
+    text-transform: uppercase;
+}
+#underline{
+    text-decoration: underline;
+}
+
+#carte-dev{
+    border: 4px solid;
+    background-color: 
+    color: rgb(45, 74, 182);   
+}
+
+.mes-icones1{
+    background-color:pink;
+    color: red;
+    border: 2px solid rgb(45, 74, 182)g;
+    padding: 10px;
+    height: 5vh;
+    display: flex;
+    justify-content: space-around;    
+}
+.mes-icones1 i{
+    font-size:40px;
+ 
+}
+
+.bloc3{
+    background-color:rgb(45, 74, 182);
+    color: white;
+    display: block;
+    text-align: center;
+}
+.marge1{
+    margin-top:20px;
+    padding-top:30px ;
+
+}
+.marge2{
+    padding-bottom: 10px;
+}
+.mes-icones2{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    color: blue;
+    
+}
+.mes-icones2 i{
+    font-size:40px ;
+
+}
